@@ -7,24 +7,24 @@ import {
   Facebook,
 } from "lucide-react";
 
-import logo from "../../assets/footerlogo.png";
+import logo from "../../assets/flogo.png";
 import hub from "../../assets/hub.webp";
 
 export default function Footer() {
   return (
-    <footer className="bg-[#1f2b44] text-white pt-16 pb-8">
+    <footer className="bg-[#1f2b44] text-white pt-16 pb-4">
       <div className="max-w-7xl mx-auto px-6 text-center">
         {/* Logo */}
-        <div className="flex justify-center mb-8">
+        <div className="flex justify-center">
           <img
             src={logo}
             alt="Aditya University"
-            className="h-16 object-contain"
+            className="h-32 object-contain"
           />
         </div>
 
         {/* Social Icons */}
-        <div className="flex justify-center gap-4 mb-10">
+        <div className="flex justify-center gap-4 mb-6">
           <a className="border border-gray-500 p-3 rounded-md hover:bg-white hover:text-black transition">
             <Linkedin size={18} />
           </a>
