@@ -87,12 +87,12 @@ export default function ConferencePage() {
           </div>
 
           {/* Text */}
-          <div className="text-justify md:pr-10 md:order-1 lg:ml-16 md:mt-0 mt-6">
-            <h2 className="text-center md:text-left text-2xl md:text-3xl font-bold text-orange-500 mb-6">
+          <div className="text-justify px-4 sm:px-6 md:px-8 lg:px-12 md:order-1 mt-6 md:mt-0 md:ml-6">
+            <h2 className="text-center md:text-left text-2xl sm:text-3xl font-bold text-orange-500 mb-4 md:mb-6">
               About the Conference
             </h2>
 
-            <p className="text-gray-700 text-sm md:text-base leading-relaxed whitespace-pre-line ">
+            <p className="text-gray-700 text-sm sm:text-base leading-relaxed whitespace-pre-line max-w-3xl mx-auto md:mx-0">
               {conference.aboutConference}
             </p>
           </div>
