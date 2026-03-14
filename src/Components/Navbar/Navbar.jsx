@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { HashLink } from "react-router-hash-link";
-import logo from "../../assets/logo.webp"
+import logo from "../../assets/Slogo.png";
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -18,21 +18,20 @@ export default function Navbar() {
 
   return (
     <nav className="fixed top-0 w-full bg-white backdrop-blur-md shadow z-50">
-      <div className="max-w-7xl mx-auto flex items-center justify-between px-6 py-3">
-
+      <div className="max-w-7xl mx-auto flex items-center justify-between px-6 ">
         {/* Logo */}
         <HashLink smooth to="/#home">
           <img
             src={logo}
             alt="Aditya University"
-            className="h-12 md:h-14 object-contain"
+            className="h-22 md:h-26 w-auto object-contain"
           />
         </HashLink>
 
         {/* Hamburger Button */}
         <button
           className="md:hidden text-gray-700"
-          onClick={() => setIsOpen(prev => !prev)}
+          onClick={() => setIsOpen((prev) => !prev)}
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -118,4 +117,3 @@ export default function Navbar() {
     </nav>
   );
 }
-
