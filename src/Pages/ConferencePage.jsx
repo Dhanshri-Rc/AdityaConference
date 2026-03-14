@@ -87,7 +87,7 @@ export default function ConferencePage() {
           </div>
 
           {/* Text */}
-          <div className="text-justify md:pr-10 md:order-1 ml-16">
+          <div className="text-justify md:pr-10 md:order-1 lg:ml-16 md:mt-0 mt-6">
             <h2 className="text-center md:text-left text-2xl md:text-3xl font-bold text-orange-500 mb-6">
               About the Conference
             </h2>
