@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom";
-import { conferences } from "../data/conferences";
+import { conferences } from "../data/Conferences";
 import { Monitor } from "lucide-react";
 import bg from "../assets/bg.jpg";
 import conferenceImg from "../assets/conference2.png";
