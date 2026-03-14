@@ -24,7 +24,7 @@ export default function Navbar() {
           <img
             src={logo}
             alt="Aditya University"
-            className="h-22 md:h-26 w-auto object-contain"
+            className="h-20 md:h-[100px] w-auto object-contain"
           />
         </HashLink>
 
