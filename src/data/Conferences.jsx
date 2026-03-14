@@ -8,11 +8,9 @@ export const conferences = [
       "International Conference on Interdisciplinary Research and Sustainable Innovation in Science, Engineering, and Society",
 
     aboutSiare: `The Society of Academic Integrated Research and Education (SIARE) is an international academic organization dedicated to advancing interdisciplinary research, academic collaboration, and global knowledge exchange. The society provides a platform where scholars, researchers, policymakers, and industry leaders collaborate to address complex global challenges through innovative research and technological advancement.
-
-SIARE promotes research that integrates multiple disciplines such as engineering, sciences, social sciences, humanities, medicine, and sustainability studies. Through international conferences, workshops, training programs, and scholarly publications, the society fosters intellectual collaboration and supports the dissemination of impactful research.
+         SIARE promotes research that integrates multiple disciplines such as engineering, sciences, social sciences, humanities, medicine, and sustainability studies. Through international conferences, workshops, training programs, and scholarly publications, the society fosters intellectual collaboration and supports the dissemination of impactful research.
 
 The society’s conference proceedings are published under the Academic Proceedings Series, which ensures peer-reviewed dissemination of high-quality research contributions.
-
 SIARE strongly supports research aligned with the global sustainability agenda, encouraging interdisciplinary approaches that combine science, engineering, technology, and social innovation to build resilient societies and sustainable development pathways.
 
 Interdisciplinary research is increasingly recognized as essential for solving complex global problems, because combining expertise from different fields helps generate innovative solutions and broader societal impact.`,
