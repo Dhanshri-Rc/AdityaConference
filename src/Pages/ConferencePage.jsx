@@ -110,7 +110,7 @@ export default function ConferencePage() {
             </h2>
 
             {/* Card */}
-            <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-8">
+            <div className="bg-white rounded-lg shadow-sm border border-orange-200 p-8">
               <ul className="space-y-5">
                 {conference.objectives.map((obj, index) => (
                   <li key={index} className="flex items-start text-gray-700">
