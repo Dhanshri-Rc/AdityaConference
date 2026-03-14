@@ -18,7 +18,7 @@ export default function Footer() {
         <div className="flex justify-center">
           <img
             src={logo}
-            alt="Aditya University"
+            alt="SAIRE Society"
             className="h-32 object-contain"
           />
         </div>

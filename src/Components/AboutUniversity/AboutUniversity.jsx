@@ -12,11 +12,11 @@ export default function AboutUniversity() {
           </h2>
 
           <p className="text-gray-700 text-sm md:text-base leading-relaxed mb-4">
-            <span className="font-bold">Aditya University</span> is a State
+            <span className="font-bold">SAIRE Society</span> is a State
             Private University formed under the Andhra Pradesh Private
             Universities Act, 2016. It has evolved from the well-established
-            <span className="font-bold"> Aditya Engineering College in Surampalem</span>,
-            Kakinada District, Andhra Pradesh. Aditya University is committed
+            <span className="font-bold"> Saire Engineering College in Surampalem</span>,
+            Kakinada District, Andhra Pradesh. SAIRE Society is committed
             to provide quality higher education with global standards.
           </p>
 
@@ -31,7 +31,7 @@ export default function AboutUniversity() {
         <div className="flex justify-center md:pl-10 hover:scale-105 transition duration-300">
           <img
             src={universityImg}
-            alt="Aditya University"
+            alt="SAIRE Society"
             className="rounded-lg w-full max-w-md"
           />
         </div>

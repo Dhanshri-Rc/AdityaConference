@@ -25,7 +25,7 @@ export default function About() {
               Advanced and Global Engineering Challenges (AGEC) 2026
             </span>{" "}
             is going to be organized by Department of Electrical & Electronics
-            Engineering, <span className="font-bold">Aditya University</span>,
+            Engineering, <span className="font-bold">SAIRE Society</span>,
             Surampalem on{" "}
             <span className="font-bold">08th and 09th May, 2026</span> in hybrid
             mode.

@@ -63,7 +63,7 @@
 //         </p>
 
 //         <p className="text-yellow-400 font-semibold text-xl">
-//           Department of Electrical & Electronics Engineering, Aditya University
+//           Department of Electrical & Electronics Engineering, SAIRE Society
 //         </p>
 
 //         <p className="font-semibold mt-4">
@@ -71,7 +71,7 @@
 //         </p>
 
 //         <p className="mt-4  font-semibold">
-//           Venue : ADITYA UNIVERSITY, Surampalem, ADB Road, Kakinada District, A. P. – 533437.
+//           Venue : SAIRE Society, Surampalem, ADB Road, Kakinada District, A. P. – 533437.
 //         </p>
 
 //       </div>
@@ -150,7 +150,7 @@ export default function Hero() {
         </p>
 
         <p className="text-lg">
-          Aditya University
+          SAIRE Society
         </p>
 
         {/* Location */}
@@ -159,7 +159,7 @@ export default function Hero() {
         </p>
 
         <p className="mt-2 text-sm md:text-base">
-          Venue : Aditya University, Surampalem, ADB Road, Kakinada District, A.P – 533437
+          Venue : SAIRE Society, Surampalem, ADB Road, Kakinada District, A.P – 533437
         </p>
 
         {/* Buttons */}

@@ -30,9 +30,11 @@ tracks: [
 title: "Artificial Intelligence and Emerging Technologies",
 topics: [
 "Machine Learning and Deep Learning",
+"Artificial Intelligence Applications",
 "Natural Language Processing",
 "Robotics and Intelligent Systems",
 "AI for Sustainable Development",
+"Autonomous Systems",
 "Human-AI Collaboration"
 ]
 },
@@ -43,8 +45,10 @@ topics: [
 "Smart Infrastructure and Urban Systems",
 "Advanced Manufacturing",
 "Mechatronics and Robotics",
+"Electrical and Electronic Engineering",
 "Nanotechnology and Advanced Materials",
-"Industry 4.0 Technologies"
+"Industry 4.0 Technologies",
+"Sustainable Engineering Systems"
 ]
 },
 
@@ -52,10 +56,102 @@ topics: [
 title: "Data Science and Computational Systems",
 topics: [
 "Big Data Analytics",
+"Data Mining and Knowledge Discovery",
 "Cloud and Edge Computing",
-"Cybersecurity",
+"Cybersecurity and Digital Safety",
 "Computational Intelligence",
-"High Performance Computing"
+"Simulation and Modeling",
+"High-Performance Computing"
+]
+},
+
+{
+title: "Environmental Sustainability and Climate Science",
+topics: [
+"Climate Change Mitigation",
+"Renewable Energy Systems",
+"Water Resource Engineering",
+"Environmental Monitoring Technologies",
+"Sustainable Urban Development",
+"Green Infrastructure",
+"Circular Economy"
+]
+},
+
+{
+title: "Health Sciences and Biomedical Innovation",
+topics: [
+"Biomedical Engineering",
+"Medical Imaging and Diagnostics",
+"Health Informatics",
+"Bioinformatics and Genomics",
+"Pharmaceutical Technology",
+"Digital Healthcare Systems",
+"Public Health Innovation"
+]
+},
+
+{
+title: "Business, Innovation and Entrepreneurship",
+topics: [
+"Innovation Management",
+"Entrepreneurship Ecosystems",
+"Sustainable Business Models",
+"Financial Technology (FinTech)",
+"Digital Economy",
+"Business Analytics",
+"Corporate Sustainability"
+]
+},
+
+{
+title: "Education and Knowledge Systems",
+topics: [
+"Educational Technology",
+"Artificial Intelligence in Education",
+"Curriculum Innovation",
+"Digital Learning Environments",
+"Higher Education Policy",
+"Online and Hybrid Learning",
+"Academic Leadership"
+]
+},
+
+{
+title: "Social Sciences and Public Policy",
+topics: [
+"Governance and Institutional Development",
+"Public Policy and Social Innovation",
+"Digital Society",
+"Global Development Studies",
+"Social Entrepreneurship",
+"Political Economy",
+"Cultural Studies"
+]
+},
+
+{
+title: "Arts, Humanities and Cultural Innovation",
+topics: [
+"Digital Humanities",
+"Visual Arts and Media Studies",
+"Cultural Heritage and Preservation",
+"Creative Arts and Technology",
+"Communication and Media Innovation",
+"Cultural Policy and Society"
+]
+},
+
+{
+title: "Agriculture, Food Systems and Sustainability",
+topics: [
+"Precision Agriculture",
+"Agricultural Biotechnology",
+"Climate-Smart Farming",
+"Food Security and Nutrition",
+"Sustainable Food Systems",
+"Agro-Technology and Innovation",
+"Agricultural Economics"
 ]
 }
 
@@ -149,22 +245,131 @@ objectives: [
 tracks: [
 
 {
-title: "Biotechnology and Bioengineering",
+title: "Artificial Intelligence and Emerging Technologies",
 topics: [
-"Genetic Engineering",
-"Bioprocess Engineering",
-"Synthetic Biology",
-"Industrial Biotechnology"
+"Machine Learning and Deep Learning",
+"Artificial Intelligence Applications",
+"Natural Language Processing",
+"Robotics and Intelligent Systems",
+"AI for Sustainable Development",
+"Autonomous Systems",
+"Human-AI Collaboration"
 ]
 },
 
 {
-title: "Pharmaceutical Sciences",
+title: "Engineering and Smart Technologies",
 topics: [
-"Drug Discovery",
-"Pharmacokinetics",
-"Nanomedicine",
-"Clinical Pharmacology"
+"Smart Infrastructure and Urban Systems",
+"Advanced Manufacturing",
+"Mechatronics and Robotics",
+"Electrical and Electronic Engineering",
+"Nanotechnology and Advanced Materials",
+"Industry 4.0 Technologies",
+"Sustainable Engineering Systems"
+]
+},
+
+{
+title: "Data Science and Computational Systems",
+topics: [
+"Big Data Analytics",
+"Data Mining and Knowledge Discovery",
+"Cloud and Edge Computing",
+"Cybersecurity and Digital Safety",
+"Computational Intelligence",
+"Simulation and Modeling",
+"High-Performance Computing"
+]
+},
+
+{
+title: "Environmental Sustainability and Climate Science",
+topics: [
+"Climate Change Mitigation",
+"Renewable Energy Systems",
+"Water Resource Engineering",
+"Environmental Monitoring Technologies",
+"Sustainable Urban Development",
+"Green Infrastructure",
+"Circular Economy"
+]
+},
+
+{
+title: "Health Sciences and Biomedical Innovation",
+topics: [
+"Biomedical Engineering",
+"Medical Imaging and Diagnostics",
+"Health Informatics",
+"Bioinformatics and Genomics",
+"Pharmaceutical Technology",
+"Digital Healthcare Systems",
+"Public Health Innovation"
+]
+},
+
+{
+title: "Business, Innovation and Entrepreneurship",
+topics: [
+"Innovation Management",
+"Entrepreneurship Ecosystems",
+"Sustainable Business Models",
+"Financial Technology (FinTech)",
+"Digital Economy",
+"Business Analytics",
+"Corporate Sustainability"
+]
+},
+
+{
+title: "Education and Knowledge Systems",
+topics: [
+"Educational Technology",
+"Artificial Intelligence in Education",
+"Curriculum Innovation",
+"Digital Learning Environments",
+"Higher Education Policy",
+"Online and Hybrid Learning",
+"Academic Leadership"
+]
+},
+
+{
+title: "Social Sciences and Public Policy",
+topics: [
+"Governance and Institutional Development",
+"Public Policy and Social Innovation",
+"Digital Society",
+"Global Development Studies",
+"Social Entrepreneurship",
+"Political Economy",
+"Cultural Studies"
+]
+},
+
+{
+title: "Arts, Humanities and Cultural Innovation",
+topics: [
+"Digital Humanities",
+"Visual Arts and Media Studies",
+"Cultural Heritage and Preservation",
+"Creative Arts and Technology",
+"Communication and Media Innovation",
+"Cultural Policy and Society"
+]
+},
+
+{
+title: "Agriculture, Food Systems and Sustainability",
+topics: [
+"Precision Agriculture",
+"Agricultural Biotechnology",
+"Climate-Smart Farming",
+"Food Security and Nutrition",
+"Sustainable Food Systems",
+"Agro-Technology and Innovation",
+"Agricultural Economics"
 ]
 }
 
@@ -258,22 +463,131 @@ objectives: [
 tracks: [
 
 {
-title: "Artificial Intelligence",
+title: "Artificial Intelligence and Emerging Technologies",
 topics: [
-"Machine Learning",
-"Deep Learning",
+"Machine Learning and Deep Learning",
+"Artificial Intelligence Applications",
 "Natural Language Processing",
-"AI Applications"
+"Robotics and Intelligent Systems",
+"AI for Sustainable Development",
+"Autonomous Systems",
+"Human-AI Collaboration"
 ]
 },
 
 {
-title: "Smart Engineering Systems",
+title: "Engineering and Smart Technologies",
 topics: [
-"Smart Cities",
-"Automation Systems",
-"IoT Engineering",
-"Intelligent Infrastructure"
+"Smart Infrastructure and Urban Systems",
+"Advanced Manufacturing",
+"Mechatronics and Robotics",
+"Electrical and Electronic Engineering",
+"Nanotechnology and Advanced Materials",
+"Industry 4.0 Technologies",
+"Sustainable Engineering Systems"
+]
+},
+
+{
+title: "Data Science and Computational Systems",
+topics: [
+"Big Data Analytics",
+"Data Mining and Knowledge Discovery",
+"Cloud and Edge Computing",
+"Cybersecurity and Digital Safety",
+"Computational Intelligence",
+"Simulation and Modeling",
+"High-Performance Computing"
+]
+},
+
+{
+title: "Environmental Sustainability and Climate Science",
+topics: [
+"Climate Change Mitigation",
+"Renewable Energy Systems",
+"Water Resource Engineering",
+"Environmental Monitoring Technologies",
+"Sustainable Urban Development",
+"Green Infrastructure",
+"Circular Economy"
+]
+},
+
+{
+title: "Health Sciences and Biomedical Innovation",
+topics: [
+"Biomedical Engineering",
+"Medical Imaging and Diagnostics",
+"Health Informatics",
+"Bioinformatics and Genomics",
+"Pharmaceutical Technology",
+"Digital Healthcare Systems",
+"Public Health Innovation"
+]
+},
+
+{
+title: "Business, Innovation and Entrepreneurship",
+topics: [
+"Innovation Management",
+"Entrepreneurship Ecosystems",
+"Sustainable Business Models",
+"Financial Technology (FinTech)",
+"Digital Economy",
+"Business Analytics",
+"Corporate Sustainability"
+]
+},
+
+{
+title: "Education and Knowledge Systems",
+topics: [
+"Educational Technology",
+"Artificial Intelligence in Education",
+"Curriculum Innovation",
+"Digital Learning Environments",
+"Higher Education Policy",
+"Online and Hybrid Learning",
+"Academic Leadership"
+]
+},
+
+{
+title: "Social Sciences and Public Policy",
+topics: [
+"Governance and Institutional Development",
+"Public Policy and Social Innovation",
+"Digital Society",
+"Global Development Studies",
+"Social Entrepreneurship",
+"Political Economy",
+"Cultural Studies"
+]
+},
+
+{
+title: "Arts, Humanities and Cultural Innovation",
+topics: [
+"Digital Humanities",
+"Visual Arts and Media Studies",
+"Cultural Heritage and Preservation",
+"Creative Arts and Technology",
+"Communication and Media Innovation",
+"Cultural Policy and Society"
+]
+},
+
+{
+title: "Agriculture, Food Systems and Sustainability",
+topics: [
+"Precision Agriculture",
+"Agricultural Biotechnology",
+"Climate-Smart Farming",
+"Food Security and Nutrition",
+"Sustainable Food Systems",
+"Agro-Technology and Innovation",
+"Agricultural Economics"
 ]
 }
 
@@ -366,22 +680,131 @@ objectives: [
 tracks: [
 
 {
-title: "Public Policy",
+title: "Artificial Intelligence and Emerging Technologies",
 topics: [
-"Governance Systems",
-"Policy Innovation",
-"Digital Government",
-"Public Administration"
+"Machine Learning and Deep Learning",
+"Artificial Intelligence Applications",
+"Natural Language Processing",
+"Robotics and Intelligent Systems",
+"AI for Sustainable Development",
+"Autonomous Systems",
+"Human-AI Collaboration"
 ]
 },
 
 {
-title: "Social Development",
+title: "Engineering and Smart Technologies",
 topics: [
-"Global Development",
-"Gender Studies",
+"Smart Infrastructure and Urban Systems",
+"Advanced Manufacturing",
+"Mechatronics and Robotics",
+"Electrical and Electronic Engineering",
+"Nanotechnology and Advanced Materials",
+"Industry 4.0 Technologies",
+"Sustainable Engineering Systems"
+]
+},
+
+{
+title: "Data Science and Computational Systems",
+topics: [
+"Big Data Analytics",
+"Data Mining and Knowledge Discovery",
+"Cloud and Edge Computing",
+"Cybersecurity and Digital Safety",
+"Computational Intelligence",
+"Simulation and Modeling",
+"High-Performance Computing"
+]
+},
+
+{
+title: "Environmental Sustainability and Climate Science",
+topics: [
+"Climate Change Mitigation",
+"Renewable Energy Systems",
+"Water Resource Engineering",
+"Environmental Monitoring Technologies",
+"Sustainable Urban Development",
+"Green Infrastructure",
+"Circular Economy"
+]
+},
+
+{
+title: "Health Sciences and Biomedical Innovation",
+topics: [
+"Biomedical Engineering",
+"Medical Imaging and Diagnostics",
+"Health Informatics",
+"Bioinformatics and Genomics",
+"Pharmaceutical Technology",
+"Digital Healthcare Systems",
+"Public Health Innovation"
+]
+},
+
+{
+title: "Business, Innovation and Entrepreneurship",
+topics: [
+"Innovation Management",
+"Entrepreneurship Ecosystems",
+"Sustainable Business Models",
+"Financial Technology (FinTech)",
+"Digital Economy",
+"Business Analytics",
+"Corporate Sustainability"
+]
+},
+
+{
+title: "Education and Knowledge Systems",
+topics: [
+"Educational Technology",
+"Artificial Intelligence in Education",
+"Curriculum Innovation",
+"Digital Learning Environments",
+"Higher Education Policy",
+"Online and Hybrid Learning",
+"Academic Leadership"
+]
+},
+
+{
+title: "Social Sciences and Public Policy",
+topics: [
+"Governance and Institutional Development",
+"Public Policy and Social Innovation",
+"Digital Society",
+"Global Development Studies",
 "Social Entrepreneurship",
-"Human Development"
+"Political Economy",
+"Cultural Studies"
+]
+},
+
+{
+title: "Arts, Humanities and Cultural Innovation",
+topics: [
+"Digital Humanities",
+"Visual Arts and Media Studies",
+"Cultural Heritage and Preservation",
+"Creative Arts and Technology",
+"Communication and Media Innovation",
+"Cultural Policy and Society"
+]
+},
+
+{
+title: "Agriculture, Food Systems and Sustainability",
+topics: [
+"Precision Agriculture",
+"Agricultural Biotechnology",
+"Climate-Smart Farming",
+"Food Security and Nutrition",
+"Sustainable Food Systems",
+"Agro-Technology and Innovation",
+"Agricultural Economics"
 ]
 }
 
@@ -452,22 +875,131 @@ objectives: [
 tracks: [
 
 {
-title: "Agricultural Technology",
+title: "Artificial Intelligence and Emerging Technologies",
 topics: [
-"Precision Agriculture",
-"Agri Robotics",
-"Smart Farming",
-"Agricultural Data Systems"
+"Machine Learning and Deep Learning",
+"Artificial Intelligence Applications",
+"Natural Language Processing",
+"Robotics and Intelligent Systems",
+"AI for Sustainable Development",
+"Autonomous Systems",
+"Human-AI Collaboration"
 ]
 },
 
 {
-title: "Food Systems",
+title: "Engineering and Smart Technologies",
 topics: [
-"Food Security",
-"Sustainable Agriculture",
-"Food Supply Chains",
-"Climate Smart Farming"
+"Smart Infrastructure and Urban Systems",
+"Advanced Manufacturing",
+"Mechatronics and Robotics",
+"Electrical and Electronic Engineering",
+"Nanotechnology and Advanced Materials",
+"Industry 4.0 Technologies",
+"Sustainable Engineering Systems"
+]
+},
+
+{
+title: "Data Science and Computational Systems",
+topics: [
+"Big Data Analytics",
+"Data Mining and Knowledge Discovery",
+"Cloud and Edge Computing",
+"Cybersecurity and Digital Safety",
+"Computational Intelligence",
+"Simulation and Modeling",
+"High-Performance Computing"
+]
+},
+
+{
+title: "Environmental Sustainability and Climate Science",
+topics: [
+"Climate Change Mitigation",
+"Renewable Energy Systems",
+"Water Resource Engineering",
+"Environmental Monitoring Technologies",
+"Sustainable Urban Development",
+"Green Infrastructure",
+"Circular Economy"
+]
+},
+
+{
+title: "Health Sciences and Biomedical Innovation",
+topics: [
+"Biomedical Engineering",
+"Medical Imaging and Diagnostics",
+"Health Informatics",
+"Bioinformatics and Genomics",
+"Pharmaceutical Technology",
+"Digital Healthcare Systems",
+"Public Health Innovation"
+]
+},
+
+{
+title: "Business, Innovation and Entrepreneurship",
+topics: [
+"Innovation Management",
+"Entrepreneurship Ecosystems",
+"Sustainable Business Models",
+"Financial Technology (FinTech)",
+"Digital Economy",
+"Business Analytics",
+"Corporate Sustainability"
+]
+},
+
+{
+title: "Education and Knowledge Systems",
+topics: [
+"Educational Technology",
+"Artificial Intelligence in Education",
+"Curriculum Innovation",
+"Digital Learning Environments",
+"Higher Education Policy",
+"Online and Hybrid Learning",
+"Academic Leadership"
+]
+},
+
+{
+title: "Social Sciences and Public Policy",
+topics: [
+"Governance and Institutional Development",
+"Public Policy and Social Innovation",
+"Digital Society",
+"Global Development Studies",
+"Social Entrepreneurship",
+"Political Economy",
+"Cultural Studies"
+]
+},
+
+{
+title: "Arts, Humanities and Cultural Innovation",
+topics: [
+"Digital Humanities",
+"Visual Arts and Media Studies",
+"Cultural Heritage and Preservation",
+"Creative Arts and Technology",
+"Communication and Media Innovation",
+"Cultural Policy and Society"
+]
+},
+
+{
+title: "Agriculture, Food Systems and Sustainability",
+topics: [
+"Precision Agriculture",
+"Agricultural Biotechnology",
+"Climate-Smart Farming",
+"Food Security and Nutrition",
+"Sustainable Food Systems",
+"Agro-Technology and Innovation",
+"Agricultural Economics"
 ]
 }
 
@@ -538,22 +1070,131 @@ objectives: [
 tracks: [
 
 {
-title: "Digital Humanities",
+title: "Artificial Intelligence and Emerging Technologies",
 topics: [
-"Digital Archives",
-"Humanities Data Analysis",
-"Cultural Informatics",
-"Digital Scholarship"
+"Machine Learning and Deep Learning",
+"Artificial Intelligence Applications",
+"Natural Language Processing",
+"Robotics and Intelligent Systems",
+"AI for Sustainable Development",
+"Autonomous Systems",
+"Human-AI Collaboration"
 ]
 },
 
 {
-title: "Creative Arts",
+title: "Engineering and Smart Technologies",
 topics: [
-"Media Innovation",
-"Digital Storytelling",
-"Visual Arts Technology",
-"Cultural Media"
+"Smart Infrastructure and Urban Systems",
+"Advanced Manufacturing",
+"Mechatronics and Robotics",
+"Electrical and Electronic Engineering",
+"Nanotechnology and Advanced Materials",
+"Industry 4.0 Technologies",
+"Sustainable Engineering Systems"
+]
+},
+
+{
+title: "Data Science and Computational Systems",
+topics: [
+"Big Data Analytics",
+"Data Mining and Knowledge Discovery",
+"Cloud and Edge Computing",
+"Cybersecurity and Digital Safety",
+"Computational Intelligence",
+"Simulation and Modeling",
+"High-Performance Computing"
+]
+},
+
+{
+title: "Environmental Sustainability and Climate Science",
+topics: [
+"Climate Change Mitigation",
+"Renewable Energy Systems",
+"Water Resource Engineering",
+"Environmental Monitoring Technologies",
+"Sustainable Urban Development",
+"Green Infrastructure",
+"Circular Economy"
+]
+},
+
+{
+title: "Health Sciences and Biomedical Innovation",
+topics: [
+"Biomedical Engineering",
+"Medical Imaging and Diagnostics",
+"Health Informatics",
+"Bioinformatics and Genomics",
+"Pharmaceutical Technology",
+"Digital Healthcare Systems",
+"Public Health Innovation"
+]
+},
+
+{
+title: "Business, Innovation and Entrepreneurship",
+topics: [
+"Innovation Management",
+"Entrepreneurship Ecosystems",
+"Sustainable Business Models",
+"Financial Technology (FinTech)",
+"Digital Economy",
+"Business Analytics",
+"Corporate Sustainability"
+]
+},
+
+{
+title: "Education and Knowledge Systems",
+topics: [
+"Educational Technology",
+"Artificial Intelligence in Education",
+"Curriculum Innovation",
+"Digital Learning Environments",
+"Higher Education Policy",
+"Online and Hybrid Learning",
+"Academic Leadership"
+]
+},
+
+{
+title: "Social Sciences and Public Policy",
+topics: [
+"Governance and Institutional Development",
+"Public Policy and Social Innovation",
+"Digital Society",
+"Global Development Studies",
+"Social Entrepreneurship",
+"Political Economy",
+"Cultural Studies"
+]
+},
+
+{
+title: "Arts, Humanities and Cultural Innovation",
+topics: [
+"Digital Humanities",
+"Visual Arts and Media Studies",
+"Cultural Heritage and Preservation",
+"Creative Arts and Technology",
+"Communication and Media Innovation",
+"Cultural Policy and Society"
+]
+},
+
+{
+title: "Agriculture, Food Systems and Sustainability",
+topics: [
+"Precision Agriculture",
+"Agricultural Biotechnology",
+"Climate-Smart Farming",
+"Food Security and Nutrition",
+"Sustainable Food Systems",
+"Agro-Technology and Innovation",
+"Agricultural Economics"
 ]
 }
 
@@ -624,27 +1265,135 @@ objectives: [
 tracks: [
 
 {
-title: "Data Science",
+title: "Artificial Intelligence and Emerging Technologies",
 topics: [
-"Big Data Analytics",
-"Data Mining",
-"Predictive Modeling",
-"Data Visualization"
+"Machine Learning and Deep Learning",
+"Artificial Intelligence Applications",
+"Natural Language Processing",
+"Robotics and Intelligent Systems",
+"AI for Sustainable Development",
+"Autonomous Systems",
+"Human-AI Collaboration"
 ]
 },
 
 {
-title: "Computational Intelligence",
+title: "Engineering and Smart Technologies",
 topics: [
-"Neural Networks",
-"Evolutionary Algorithms",
-"AI Systems",
-"Intelligent Computing"
+"Smart Infrastructure and Urban Systems",
+"Advanced Manufacturing",
+"Mechatronics and Robotics",
+"Electrical and Electronic Engineering",
+"Nanotechnology and Advanced Materials",
+"Industry 4.0 Technologies",
+"Sustainable Engineering Systems"
+]
+},
+
+{
+title: "Data Science and Computational Systems",
+topics: [
+"Big Data Analytics",
+"Data Mining and Knowledge Discovery",
+"Cloud and Edge Computing",
+"Cybersecurity and Digital Safety",
+"Computational Intelligence",
+"Simulation and Modeling",
+"High-Performance Computing"
+]
+},
+
+{
+title: "Environmental Sustainability and Climate Science",
+topics: [
+"Climate Change Mitigation",
+"Renewable Energy Systems",
+"Water Resource Engineering",
+"Environmental Monitoring Technologies",
+"Sustainable Urban Development",
+"Green Infrastructure",
+"Circular Economy"
+]
+},
+
+{
+title: "Health Sciences and Biomedical Innovation",
+topics: [
+"Biomedical Engineering",
+"Medical Imaging and Diagnostics",
+"Health Informatics",
+"Bioinformatics and Genomics",
+"Pharmaceutical Technology",
+"Digital Healthcare Systems",
+"Public Health Innovation"
+]
+},
+
+{
+title: "Business, Innovation and Entrepreneurship",
+topics: [
+"Innovation Management",
+"Entrepreneurship Ecosystems",
+"Sustainable Business Models",
+"Financial Technology (FinTech)",
+"Digital Economy",
+"Business Analytics",
+"Corporate Sustainability"
+]
+},
+
+{
+title: "Education and Knowledge Systems",
+topics: [
+"Educational Technology",
+"Artificial Intelligence in Education",
+"Curriculum Innovation",
+"Digital Learning Environments",
+"Higher Education Policy",
+"Online and Hybrid Learning",
+"Academic Leadership"
+]
+},
+
+{
+title: "Social Sciences and Public Policy",
+topics: [
+"Governance and Institutional Development",
+"Public Policy and Social Innovation",
+"Digital Society",
+"Global Development Studies",
+"Social Entrepreneurship",
+"Political Economy",
+"Cultural Studies"
+]
+},
+
+{
+title: "Arts, Humanities and Cultural Innovation",
+topics: [
+"Digital Humanities",
+"Visual Arts and Media Studies",
+"Cultural Heritage and Preservation",
+"Creative Arts and Technology",
+"Communication and Media Innovation",
+"Cultural Policy and Society"
+]
+},
+
+{
+title: "Agriculture, Food Systems and Sustainability",
+topics: [
+"Precision Agriculture",
+"Agricultural Biotechnology",
+"Climate-Smart Farming",
+"Food Security and Nutrition",
+"Sustainable Food Systems",
+"Agro-Technology and Innovation",
+"Agricultural Economics"
 ]
 }
 
 ],
-
 submissionGuidelines: {
 pages: "6–10 pages",
 format: "Microsoft Word or LaTeX",
@@ -710,27 +1459,135 @@ objectives: [
 tracks: [
 
 {
-title: "Educational Technology",
+title: "Artificial Intelligence and Emerging Technologies",
 topics: [
-"AI in Education",
-"Learning Analytics",
-"Online Learning Systems",
-"Digital Classrooms"
+"Machine Learning and Deep Learning",
+"Artificial Intelligence Applications",
+"Natural Language Processing",
+"Robotics and Intelligent Systems",
+"AI for Sustainable Development",
+"Autonomous Systems",
+"Human-AI Collaboration"
 ]
 },
 
 {
-title: "Education Policy",
+title: "Engineering and Smart Technologies",
 topics: [
-"Higher Education Policy",
+"Smart Infrastructure and Urban Systems",
+"Advanced Manufacturing",
+"Mechatronics and Robotics",
+"Electrical and Electronic Engineering",
+"Nanotechnology and Advanced Materials",
+"Industry 4.0 Technologies",
+"Sustainable Engineering Systems"
+]
+},
+
+{
+title: "Data Science and Computational Systems",
+topics: [
+"Big Data Analytics",
+"Data Mining and Knowledge Discovery",
+"Cloud and Edge Computing",
+"Cybersecurity and Digital Safety",
+"Computational Intelligence",
+"Simulation and Modeling",
+"High-Performance Computing"
+]
+},
+
+{
+title: "Environmental Sustainability and Climate Science",
+topics: [
+"Climate Change Mitigation",
+"Renewable Energy Systems",
+"Water Resource Engineering",
+"Environmental Monitoring Technologies",
+"Sustainable Urban Development",
+"Green Infrastructure",
+"Circular Economy"
+]
+},
+
+{
+title: "Health Sciences and Biomedical Innovation",
+topics: [
+"Biomedical Engineering",
+"Medical Imaging and Diagnostics",
+"Health Informatics",
+"Bioinformatics and Genomics",
+"Pharmaceutical Technology",
+"Digital Healthcare Systems",
+"Public Health Innovation"
+]
+},
+
+{
+title: "Business, Innovation and Entrepreneurship",
+topics: [
+"Innovation Management",
+"Entrepreneurship Ecosystems",
+"Sustainable Business Models",
+"Financial Technology (FinTech)",
+"Digital Economy",
+"Business Analytics",
+"Corporate Sustainability"
+]
+},
+
+{
+title: "Education and Knowledge Systems",
+topics: [
+"Educational Technology",
+"Artificial Intelligence in Education",
 "Curriculum Innovation",
-"Education Leadership",
-"Academic Governance"
+"Digital Learning Environments",
+"Higher Education Policy",
+"Online and Hybrid Learning",
+"Academic Leadership"
+]
+},
+
+{
+title: "Social Sciences and Public Policy",
+topics: [
+"Governance and Institutional Development",
+"Public Policy and Social Innovation",
+"Digital Society",
+"Global Development Studies",
+"Social Entrepreneurship",
+"Political Economy",
+"Cultural Studies"
+]
+},
+
+{
+title: "Arts, Humanities and Cultural Innovation",
+topics: [
+"Digital Humanities",
+"Visual Arts and Media Studies",
+"Cultural Heritage and Preservation",
+"Creative Arts and Technology",
+"Communication and Media Innovation",
+"Cultural Policy and Society"
+]
+},
+
+{
+title: "Agriculture, Food Systems and Sustainability",
+topics: [
+"Precision Agriculture",
+"Agricultural Biotechnology",
+"Climate-Smart Farming",
+"Food Security and Nutrition",
+"Sustainable Food Systems",
+"Agro-Technology and Innovation",
+"Agricultural Economics"
 ]
 }
 
 ],
-
 submissionGuidelines: {
 pages: "6–10 pages",
 format: "Microsoft Word or LaTeX",
@@ -796,22 +1653,131 @@ objectives: [
 tracks: [
 
 {
-title: "Entrepreneurship",
+title: "Artificial Intelligence and Emerging Technologies",
 topics: [
-"Startup Ecosystems",
-"Venture Capital",
-"Entrepreneurial Strategy",
-"Innovation Management"
+"Machine Learning and Deep Learning",
+"Artificial Intelligence Applications",
+"Natural Language Processing",
+"Robotics and Intelligent Systems",
+"AI for Sustainable Development",
+"Autonomous Systems",
+"Human-AI Collaboration"
 ]
 },
 
 {
-title: "Business Analytics",
+title: "Engineering and Smart Technologies",
 topics: [
-"Business Intelligence",
-"Financial Technology",
+"Smart Infrastructure and Urban Systems",
+"Advanced Manufacturing",
+"Mechatronics and Robotics",
+"Electrical and Electronic Engineering",
+"Nanotechnology and Advanced Materials",
+"Industry 4.0 Technologies",
+"Sustainable Engineering Systems"
+]
+},
+
+{
+title: "Data Science and Computational Systems",
+topics: [
+"Big Data Analytics",
+"Data Mining and Knowledge Discovery",
+"Cloud and Edge Computing",
+"Cybersecurity and Digital Safety",
+"Computational Intelligence",
+"Simulation and Modeling",
+"High-Performance Computing"
+]
+},
+
+{
+title: "Environmental Sustainability and Climate Science",
+topics: [
+"Climate Change Mitigation",
+"Renewable Energy Systems",
+"Water Resource Engineering",
+"Environmental Monitoring Technologies",
+"Sustainable Urban Development",
+"Green Infrastructure",
+"Circular Economy"
+]
+},
+
+{
+title: "Health Sciences and Biomedical Innovation",
+topics: [
+"Biomedical Engineering",
+"Medical Imaging and Diagnostics",
+"Health Informatics",
+"Bioinformatics and Genomics",
+"Pharmaceutical Technology",
+"Digital Healthcare Systems",
+"Public Health Innovation"
+]
+},
+
+{
+title: "Business, Innovation and Entrepreneurship",
+topics: [
+"Innovation Management",
+"Entrepreneurship Ecosystems",
+"Sustainable Business Models",
+"Financial Technology (FinTech)",
 "Digital Economy",
-"Corporate Strategy"
+"Business Analytics",
+"Corporate Sustainability"
+]
+},
+
+{
+title: "Education and Knowledge Systems",
+topics: [
+"Educational Technology",
+"Artificial Intelligence in Education",
+"Curriculum Innovation",
+"Digital Learning Environments",
+"Higher Education Policy",
+"Online and Hybrid Learning",
+"Academic Leadership"
+]
+},
+
+{
+title: "Social Sciences and Public Policy",
+topics: [
+"Governance and Institutional Development",
+"Public Policy and Social Innovation",
+"Digital Society",
+"Global Development Studies",
+"Social Entrepreneurship",
+"Political Economy",
+"Cultural Studies"
+]
+},
+
+{
+title: "Arts, Humanities and Cultural Innovation",
+topics: [
+"Digital Humanities",
+"Visual Arts and Media Studies",
+"Cultural Heritage and Preservation",
+"Creative Arts and Technology",
+"Communication and Media Innovation",
+"Cultural Policy and Society"
+]
+},
+
+{
+title: "Agriculture, Food Systems and Sustainability",
+topics: [
+"Precision Agriculture",
+"Agricultural Biotechnology",
+"Climate-Smart Farming",
+"Food Security and Nutrition",
+"Sustainable Food Systems",
+"Agro-Technology and Innovation",
+"Agricultural Economics"
 ]
 }
 
@@ -882,27 +1848,135 @@ objectives: [
 tracks: [
 
 {
-title: "Climate Science",
+title: "Artificial Intelligence and Emerging Technologies",
 topics: [
-"Climate Modeling",
-"Carbon Reduction",
-"Renewable Energy Systems",
-"Environmental Monitoring"
+"Machine Learning and Deep Learning",
+"Artificial Intelligence Applications",
+"Natural Language Processing",
+"Robotics and Intelligent Systems",
+"AI for Sustainable Development",
+"Autonomous Systems",
+"Human-AI Collaboration"
 ]
 },
 
 {
-title: "Biodiversity",
+title: "Engineering and Smart Technologies",
 topics: [
-"Ecosystem Conservation",
-"Sustainable Land Use",
-"Environmental Policy",
-"Green Technologies"
+"Smart Infrastructure and Urban Systems",
+"Advanced Manufacturing",
+"Mechatronics and Robotics",
+"Electrical and Electronic Engineering",
+"Nanotechnology and Advanced Materials",
+"Industry 4.0 Technologies",
+"Sustainable Engineering Systems"
+]
+},
+
+{
+title: "Data Science and Computational Systems",
+topics: [
+"Big Data Analytics",
+"Data Mining and Knowledge Discovery",
+"Cloud and Edge Computing",
+"Cybersecurity and Digital Safety",
+"Computational Intelligence",
+"Simulation and Modeling",
+"High-Performance Computing"
+]
+},
+
+{
+title: "Environmental Sustainability and Climate Science",
+topics: [
+"Climate Change Mitigation",
+"Renewable Energy Systems",
+"Water Resource Engineering",
+"Environmental Monitoring Technologies",
+"Sustainable Urban Development",
+"Green Infrastructure",
+"Circular Economy"
+]
+},
+
+{
+title: "Health Sciences and Biomedical Innovation",
+topics: [
+"Biomedical Engineering",
+"Medical Imaging and Diagnostics",
+"Health Informatics",
+"Bioinformatics and Genomics",
+"Pharmaceutical Technology",
+"Digital Healthcare Systems",
+"Public Health Innovation"
+]
+},
+
+{
+title: "Business, Innovation and Entrepreneurship",
+topics: [
+"Innovation Management",
+"Entrepreneurship Ecosystems",
+"Sustainable Business Models",
+"Financial Technology (FinTech)",
+"Digital Economy",
+"Business Analytics",
+"Corporate Sustainability"
+]
+},
+
+{
+title: "Education and Knowledge Systems",
+topics: [
+"Educational Technology",
+"Artificial Intelligence in Education",
+"Curriculum Innovation",
+"Digital Learning Environments",
+"Higher Education Policy",
+"Online and Hybrid Learning",
+"Academic Leadership"
+]
+},
+
+{
+title: "Social Sciences and Public Policy",
+topics: [
+"Governance and Institutional Development",
+"Public Policy and Social Innovation",
+"Digital Society",
+"Global Development Studies",
+"Social Entrepreneurship",
+"Political Economy",
+"Cultural Studies"
+]
+},
+
+{
+title: "Arts, Humanities and Cultural Innovation",
+topics: [
+"Digital Humanities",
+"Visual Arts and Media Studies",
+"Cultural Heritage and Preservation",
+"Creative Arts and Technology",
+"Communication and Media Innovation",
+"Cultural Policy and Society"
+]
+},
+
+{
+title: "Agriculture, Food Systems and Sustainability",
+topics: [
+"Precision Agriculture",
+"Agricultural Biotechnology",
+"Climate-Smart Farming",
+"Food Security and Nutrition",
+"Sustainable Food Systems",
+"Agro-Technology and Innovation",
+"Agricultural Economics"
 ]
 }
 
 ],
-
 submissionGuidelines: {
 pages: "6–10 pages",
 format: "Microsoft Word or LaTeX",

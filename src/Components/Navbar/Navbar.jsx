@@ -23,7 +23,7 @@ export default function Navbar() {
         <HashLink smooth to="/#home">
           <img
             src={logo}
-            alt="Aditya University"
+            alt="SAIRE Society"
             className="h-20 md:h-[100px] w-auto object-contain"
           />
         </HashLink>
