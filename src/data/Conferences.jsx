@@ -258,17 +258,29 @@ The conference will feature keynote talks from leading scholars, technical sessi
       "Global Conference on Advances in Biotechnology, Pharmacology, and Translational Health Sciences",
 
     aboutSiare: `The Society of Academic Integrated Research and Education (SIARE) is an international academic organization dedicated to advancing interdisciplinary research, academic collaboration, and global knowledge exchange. The society provides a platform where scholars, researchers, policymakers, and industry leaders collaborate to address complex global challenges through innovative research and technological advancement.
+         SIARE promotes research that integrates multiple disciplines such as engineering, sciences, social sciences, humanities, medicine, and sustainability studies. Through international conferences, workshops, training programs, and scholarly publications, the society fosters intellectual collaboration and supports the dissemination of impactful research.
 
-SIARE promotes research that integrates multiple disciplines such as engineering, sciences, social sciences, humanities, medicine, and sustainability studies. Through international conferences, workshops, training programs, and scholarly publications, the society fosters intellectual collaboration and supports the dissemination of impactful research.`,
+The society’s conference proceedings are published under the Academic Proceedings Series, which ensures peer-reviewed dissemination of high-quality research contributions.
+SIARE strongly supports research aligned with the global sustainability agenda, encouraging interdisciplinary approaches that combine science, engineering, technology, and social innovation to build resilient societies and sustainable development pathways.
 
-    aboutConference:
-      "This conference focuses on emerging research in biotechnology, pharmacology, and translational health sciences. The conference aims to bring together scientists, researchers, clinicians, and industry professionals to discuss cutting-edge developments in biomedical technologies and healthcare innovation.",
+Interdisciplinary research is increasingly recognized as essential for solving complex global problems, because combining expertise from different fields helps generate innovative solutions and broader societal impact.`,
+
+    aboutConference: `The International Conference on Interdisciplinary Research and Sustainable Innovation in Science, Engineering, and Society (ICIRSIES 2026) is a global academic platform dedicated to promoting innovative research that integrates multiple disciplines to address societal challenges.The conference aims to bring together researchers, academicians, industry professionals, policymakers, and students from around the world to share ideas, present research findings, and develop collaborative networks. Modern global challenges such as climate change, technological disruption, and sustainable development require interdisciplinary collaboration among scientists, engineers, social scientists, and policymakers.
+     
+    ICIRSIES 2026 therefore focuses on research that connects:
+• Scientific discovery  
+• Technological innovation  
+• Social transformation  
+• Sustainable development  
+The conference will feature keynote talks from leading scholars, technical sessions, panel discussions, poster presentations, and networking opportunities.`,
 
     objectives: [
-      "Promote global collaboration in biotechnology and medical sciences",
-      "Encourage innovation in pharmaceutical and biomedical technologies",
-      "Bridge the gap between laboratory research and clinical application",
-      "Support early-career researchers",
+      "Promote interdisciplinary research collaboration across scientific and social domains",
+      "Encourage innovation addressing global sustainability challenges",
+      "Facilitate knowledge exchange between academia and industry",
+      "Provide early career researchers with opportunities to present their work internationally",
+      "Strengthen global research networks and institutional partnerships",
+      "Publish high-quality peer-reviewed research in conference proceedings",
     ],
 
     tracks: [
@@ -416,6 +428,9 @@ SIARE promotes research that integrates multiple disciplines such as engineering
       citation: "APA / IEEE",
     },
 
+    plagiarismPolicy:
+      "All submissions are checked using plagiarism detection software. Papers exceeding acceptable similarity limits may be rejected or returned for revision.",
+
     registration: [
       {
         category: "Student Author",
@@ -437,6 +452,25 @@ SIARE promotes research that integrates multiple disciplines such as engineering
         fee: "$80",
       },
     ],
+
+    registrationBenefits: [
+      "Conference participation",
+      "Presentation opportunity",
+      "Conference certificate",
+      "Access to conference sessions",
+      "Publication in proceedings (for accepted papers)",
+    ],
+
+    publication: {
+      name: "SIARE Conference Proceedings Series",
+      features: [
+        "Peer-reviewed proceedings",
+        "DOI assigned to each paper",
+        "Online open-access publication",
+        "Indexed in scholarly databases (subject to evaluation)",
+      ],
+      note: "Selected high-quality papers may be invited for extended publication in partner journals after significant revision.",
+    },
 
     importantDates: [
       {
@@ -474,17 +508,29 @@ SIARE promotes research that integrates multiple disciplines such as engineering
       "International Conference on Emerging Technologies, Artificial Intelligence, and Smart Engineering Systems",
 
     aboutSiare: `The Society of Academic Integrated Research and Education (SIARE) is an international academic organization dedicated to advancing interdisciplinary research, academic collaboration, and global knowledge exchange. The society provides a platform where scholars, researchers, policymakers, and industry leaders collaborate to address complex global challenges through innovative research and technological advancement.
+         SIARE promotes research that integrates multiple disciplines such as engineering, sciences, social sciences, humanities, medicine, and sustainability studies. Through international conferences, workshops, training programs, and scholarly publications, the society fosters intellectual collaboration and supports the dissemination of impactful research.
 
-SIARE promotes research that integrates multiple disciplines such as engineering, sciences, social sciences, humanities, medicine, and sustainability studies. Through international conferences, workshops, training programs, and scholarly publications, the society fosters intellectual collaboration and supports the dissemination of impactful research.`,
+The society’s conference proceedings are published under the Academic Proceedings Series, which ensures peer-reviewed dissemination of high-quality research contributions.
+SIARE strongly supports research aligned with the global sustainability agenda, encouraging interdisciplinary approaches that combine science, engineering, technology, and social innovation to build resilient societies and sustainable development pathways.
 
-    aboutConference:
-      "This conference explores emerging technologies shaping the future of engineering and intelligent systems. The event will bring together researchers, engineers, and technology innovators to discuss advancements in AI, robotics, automation, and digital infrastructure.",
+Interdisciplinary research is increasingly recognized as essential for solving complex global problems, because combining expertise from different fields helps generate innovative solutions and broader societal impact.`,
+
+    aboutConference: `The International Conference on Interdisciplinary Research and Sustainable Innovation in Science, Engineering, and Society (ICIRSIES 2026) is a global academic platform dedicated to promoting innovative research that integrates multiple disciplines to address societal challenges.The conference aims to bring together researchers, academicians, industry professionals, policymakers, and students from around the world to share ideas, present research findings, and develop collaborative networks. Modern global challenges such as climate change, technological disruption, and sustainable development require interdisciplinary collaboration among scientists, engineers, social scientists, and policymakers.
+     
+    ICIRSIES 2026 therefore focuses on research that connects:
+• Scientific discovery  
+• Technological innovation  
+• Social transformation  
+• Sustainable development  
+The conference will feature keynote talks from leading scholars, technical sessions, panel discussions, poster presentations, and networking opportunities.`,
 
     objectives: [
-      "Promote research in artificial intelligence and emerging technologies",
-      "Encourage collaboration between academia and industry",
-      "Support innovation in smart engineering systems",
-      "Discuss real-world applications of intelligent technologies",
+      "Promote interdisciplinary research collaboration across scientific and social domains",
+      "Encourage innovation addressing global sustainability challenges",
+      "Facilitate knowledge exchange between academia and industry",
+      "Provide early career researchers with opportunities to present their work internationally",
+      "Strengthen global research networks and institutional partnerships",
+      "Publish high-quality peer-reviewed research in conference proceedings",
     ],
 
     tracks: [
@@ -632,6 +678,9 @@ SIARE promotes research that integrates multiple disciplines such as engineering
       citation: "APA / IEEE",
     },
 
+    plagiarismPolicy:
+      "All submissions are checked using plagiarism detection software. Papers exceeding acceptable similarity limits may be rejected or returned for revision.",
+
     registration: [
       {
         category: "Student Author",
@@ -653,6 +702,25 @@ SIARE promotes research that integrates multiple disciplines such as engineering
         fee: "$80",
       },
     ],
+
+    registrationBenefits: [
+      "Conference participation",
+      "Presentation opportunity",
+      "Conference certificate",
+      "Access to conference sessions",
+      "Publication in proceedings (for accepted papers)",
+    ],
+
+    publication: {
+      name: "SIARE Conference Proceedings Series",
+      features: [
+        "Peer-reviewed proceedings",
+        "DOI assigned to each paper",
+        "Online open-access publication",
+        "Indexed in scholarly databases (subject to evaluation)",
+      ],
+      note: "Selected high-quality papers may be invited for extended publication in partner journals after significant revision.",
+    },
 
     importantDates: [
       {
@@ -690,16 +758,29 @@ SIARE promotes research that integrates multiple disciplines such as engineering
       "World Conference on Social Transformation, Public Policy, and Global Development Studies",
 
     aboutSiare: `The Society of Academic Integrated Research and Education (SIARE) is an international academic organization dedicated to advancing interdisciplinary research, academic collaboration, and global knowledge exchange. The society provides a platform where scholars, researchers, policymakers, and industry leaders collaborate to address complex global challenges through innovative research and technological advancement.
+         SIARE promotes research that integrates multiple disciplines such as engineering, sciences, social sciences, humanities, medicine, and sustainability studies. Through international conferences, workshops, training programs, and scholarly publications, the society fosters intellectual collaboration and supports the dissemination of impactful research.
 
-SIARE promotes research that integrates multiple disciplines such as engineering, sciences, social sciences, humanities, medicine, and sustainability studies. Through international conferences, workshops, training programs, and scholarly publications, the society fosters intellectual collaboration and supports the dissemination of impactful research.`,
+The society’s conference proceedings are published under the Academic Proceedings Series, which ensures peer-reviewed dissemination of high-quality research contributions.
+SIARE strongly supports research aligned with the global sustainability agenda, encouraging interdisciplinary approaches that combine science, engineering, technology, and social innovation to build resilient societies and sustainable development pathways.
 
-    aboutConference:
-      "This conference focuses on global social transformation, governance, and policy innovation. It aims to bring scholars, policymakers, and social scientists together to address social inequality, governance challenges, and sustainable development.",
+Interdisciplinary research is increasingly recognized as essential for solving complex global problems, because combining expertise from different fields helps generate innovative solutions and broader societal impact.`,
+
+    aboutConference: `The International Conference on Interdisciplinary Research and Sustainable Innovation in Science, Engineering, and Society (ICIRSIES 2026) is a global academic platform dedicated to promoting innovative research that integrates multiple disciplines to address societal challenges.The conference aims to bring together researchers, academicians, industry professionals, policymakers, and students from around the world to share ideas, present research findings, and develop collaborative networks. Modern global challenges such as climate change, technological disruption, and sustainable development require interdisciplinary collaboration among scientists, engineers, social scientists, and policymakers.
+     
+    ICIRSIES 2026 therefore focuses on research that connects:
+• Scientific discovery  
+• Technological innovation  
+• Social transformation  
+• Sustainable development  
+The conference will feature keynote talks from leading scholars, technical sessions, panel discussions, poster presentations, and networking opportunities.`,
 
     objectives: [
-      "Encourage research in social policy and governance",
-      "Promote interdisciplinary social science research",
-      "Support policy innovation for sustainable development",
+      "Promote interdisciplinary research collaboration across scientific and social domains",
+      "Encourage innovation addressing global sustainability challenges",
+      "Facilitate knowledge exchange between academia and industry",
+      "Provide early career researchers with opportunities to present their work internationally",
+      "Strengthen global research networks and institutional partnerships",
+      "Publish high-quality peer-reviewed research in conference proceedings",
     ],
 
     tracks: [
@@ -847,6 +928,9 @@ SIARE promotes research that integrates multiple disciplines such as engineering
       citation: "APA / IEEE",
     },
 
+    plagiarismPolicy:
+      "All submissions are checked using plagiarism detection software. Papers exceeding acceptable similarity limits may be rejected or returned for revision.",
+
     registration: [
       {
         category: "Student Author",
@@ -868,6 +952,25 @@ SIARE promotes research that integrates multiple disciplines such as engineering
         fee: "$80",
       },
     ],
+
+    registrationBenefits: [
+      "Conference participation",
+      "Presentation opportunity",
+      "Conference certificate",
+      "Access to conference sessions",
+      "Publication in proceedings (for accepted papers)",
+    ],
+
+    publication: {
+      name: "SIARE Conference Proceedings Series",
+      features: [
+        "Peer-reviewed proceedings",
+        "DOI assigned to each paper",
+        "Online open-access publication",
+        "Indexed in scholarly databases (subject to evaluation)",
+      ],
+      note: "Selected high-quality papers may be invited for extended publication in partner journals after significant revision.",
+    },
 
     importantDates: [
       { activity: "Abstract Submission", date: "15 July 2026" },
@@ -885,16 +988,29 @@ SIARE promotes research that integrates multiple disciplines such as engineering
       "International Conference on Agriculture, Food Security, and Sustainable Environmental Systems",
 
     aboutSiare: `The Society of Academic Integrated Research and Education (SIARE) is an international academic organization dedicated to advancing interdisciplinary research, academic collaboration, and global knowledge exchange. The society provides a platform where scholars, researchers, policymakers, and industry leaders collaborate to address complex global challenges through innovative research and technological advancement.
+         SIARE promotes research that integrates multiple disciplines such as engineering, sciences, social sciences, humanities, medicine, and sustainability studies. Through international conferences, workshops, training programs, and scholarly publications, the society fosters intellectual collaboration and supports the dissemination of impactful research.
 
-SIARE promotes research that integrates multiple disciplines such as engineering, sciences, social sciences, humanities, medicine, and sustainability studies. Through international conferences, workshops, training programs, and scholarly publications, the society fosters intellectual collaboration and supports the dissemination of impactful research.`,
+The society’s conference proceedings are published under the Academic Proceedings Series, which ensures peer-reviewed dissemination of high-quality research contributions.
+SIARE strongly supports research aligned with the global sustainability agenda, encouraging interdisciplinary approaches that combine science, engineering, technology, and social innovation to build resilient societies and sustainable development pathways.
 
-    aboutConference:
-      "This conference focuses on sustainable agriculture, food security, and environmental systems. Researchers and professionals will discuss innovative agricultural technologies, climate-resilient farming, and sustainable food systems.",
+Interdisciplinary research is increasingly recognized as essential for solving complex global problems, because combining expertise from different fields helps generate innovative solutions and broader societal impact.`,
+
+    aboutConference: `The International Conference on Interdisciplinary Research and Sustainable Innovation in Science, Engineering, and Society (ICIRSIES 2026) is a global academic platform dedicated to promoting innovative research that integrates multiple disciplines to address societal challenges.The conference aims to bring together researchers, academicians, industry professionals, policymakers, and students from around the world to share ideas, present research findings, and develop collaborative networks. Modern global challenges such as climate change, technological disruption, and sustainable development require interdisciplinary collaboration among scientists, engineers, social scientists, and policymakers.
+     
+    ICIRSIES 2026 therefore focuses on research that connects:
+• Scientific discovery  
+• Technological innovation  
+• Social transformation  
+• Sustainable development  
+The conference will feature keynote talks from leading scholars, technical sessions, panel discussions, poster presentations, and networking opportunities.`,
 
     objectives: [
-      "Promote sustainable agriculture research",
-      "Encourage innovation in food production systems",
-      "Address global food security challenges",
+      "Promote interdisciplinary research collaboration across scientific and social domains",
+      "Encourage innovation addressing global sustainability challenges",
+      "Facilitate knowledge exchange between academia and industry",
+      "Provide early career researchers with opportunities to present their work internationally",
+      "Strengthen global research networks and institutional partnerships",
+      "Publish high-quality peer-reviewed research in conference proceedings",
     ],
 
     tracks: [
@@ -1042,6 +1158,9 @@ SIARE promotes research that integrates multiple disciplines such as engineering
       citation: "APA / IEEE",
     },
 
+    plagiarismPolicy:
+      "All submissions are checked using plagiarism detection software. Papers exceeding acceptable similarity limits may be rejected or returned for revision.",
+
     registration: [
       {
         category: "Student Author",
@@ -1063,6 +1182,25 @@ SIARE promotes research that integrates multiple disciplines such as engineering
         fee: "$80",
       },
     ],
+
+    registrationBenefits: [
+      "Conference participation",
+      "Presentation opportunity",
+      "Conference certificate",
+      "Access to conference sessions",
+      "Publication in proceedings (for accepted papers)",
+    ],
+
+    publication: {
+      name: "SIARE Conference Proceedings Series",
+      features: [
+        "Peer-reviewed proceedings",
+        "DOI assigned to each paper",
+        "Online open-access publication",
+        "Indexed in scholarly databases (subject to evaluation)",
+      ],
+      note: "Selected high-quality papers may be invited for extended publication in partner journals after significant revision.",
+    },
 
     importantDates: [
       { activity: "Abstract Submission", date: "15 August 2026" },
@@ -1080,16 +1218,29 @@ SIARE promotes research that integrates multiple disciplines such as engineering
       "International Conference on Digital Humanities, Media Culture, and Creative Arts Research",
 
     aboutSiare: `The Society of Academic Integrated Research and Education (SIARE) is an international academic organization dedicated to advancing interdisciplinary research, academic collaboration, and global knowledge exchange. The society provides a platform where scholars, researchers, policymakers, and industry leaders collaborate to address complex global challenges through innovative research and technological advancement.
+         SIARE promotes research that integrates multiple disciplines such as engineering, sciences, social sciences, humanities, medicine, and sustainability studies. Through international conferences, workshops, training programs, and scholarly publications, the society fosters intellectual collaboration and supports the dissemination of impactful research.
 
-SIARE promotes research that integrates multiple disciplines such as engineering, sciences, social sciences, humanities, medicine, and sustainability studies. Through international conferences, workshops, training programs, and scholarly publications, the society fosters intellectual collaboration and supports the dissemination of impactful research.`,
+The society’s conference proceedings are published under the Academic Proceedings Series, which ensures peer-reviewed dissemination of high-quality research contributions.
+SIARE strongly supports research aligned with the global sustainability agenda, encouraging interdisciplinary approaches that combine science, engineering, technology, and social innovation to build resilient societies and sustainable development pathways.
 
-    aboutConference:
-      "This conference explores the intersection of humanities, digital technologies, and creative arts. The event highlights research in digital culture, media innovation, and creative technology.",
+Interdisciplinary research is increasingly recognized as essential for solving complex global problems, because combining expertise from different fields helps generate innovative solutions and broader societal impact.`,
+
+    aboutConference: `The International Conference on Interdisciplinary Research and Sustainable Innovation in Science, Engineering, and Society (ICIRSIES 2026) is a global academic platform dedicated to promoting innovative research that integrates multiple disciplines to address societal challenges.The conference aims to bring together researchers, academicians, industry professionals, policymakers, and students from around the world to share ideas, present research findings, and develop collaborative networks. Modern global challenges such as climate change, technological disruption, and sustainable development require interdisciplinary collaboration among scientists, engineers, social scientists, and policymakers.
+     
+    ICIRSIES 2026 therefore focuses on research that connects:
+• Scientific discovery  
+• Technological innovation  
+• Social transformation  
+• Sustainable development  
+The conference will feature keynote talks from leading scholars, technical sessions, panel discussions, poster presentations, and networking opportunities.`,
 
     objectives: [
-      "Promote interdisciplinary humanities research",
-      "Explore digital transformation in arts and media",
-      "Encourage collaboration between technology and culture",
+      "Promote interdisciplinary research collaboration across scientific and social domains",
+      "Encourage innovation addressing global sustainability challenges",
+      "Facilitate knowledge exchange between academia and industry",
+      "Provide early career researchers with opportunities to present their work internationally",
+      "Strengthen global research networks and institutional partnerships",
+      "Publish high-quality peer-reviewed research in conference proceedings",
     ],
 
     tracks: [
@@ -1237,6 +1388,9 @@ SIARE promotes research that integrates multiple disciplines such as engineering
       citation: "APA / IEEE",
     },
 
+    plagiarismPolicy:
+      "All submissions are checked using plagiarism detection software. Papers exceeding acceptable similarity limits may be rejected or returned for revision.",
+
     registration: [
       {
         category: "Student Author",
@@ -1258,6 +1412,25 @@ SIARE promotes research that integrates multiple disciplines such as engineering
         fee: "$80",
       },
     ],
+
+    registrationBenefits: [
+      "Conference participation",
+      "Presentation opportunity",
+      "Conference certificate",
+      "Access to conference sessions",
+      "Publication in proceedings (for accepted papers)",
+    ],
+
+    publication: {
+      name: "SIARE Conference Proceedings Series",
+      features: [
+        "Peer-reviewed proceedings",
+        "DOI assigned to each paper",
+        "Online open-access publication",
+        "Indexed in scholarly databases (subject to evaluation)",
+      ],
+      note: "Selected high-quality papers may be invited for extended publication in partner journals after significant revision.",
+    },
 
     importantDates: [
       { activity: "Abstract Submission", date: "10 September 2026" },
@@ -1275,16 +1448,29 @@ SIARE promotes research that integrates multiple disciplines such as engineering
       "Global Conference on Data Science, Computational Intelligence, and Applied Informatics",
 
     aboutSiare: `The Society of Academic Integrated Research and Education (SIARE) is an international academic organization dedicated to advancing interdisciplinary research, academic collaboration, and global knowledge exchange. The society provides a platform where scholars, researchers, policymakers, and industry leaders collaborate to address complex global challenges through innovative research and technological advancement.
+         SIARE promotes research that integrates multiple disciplines such as engineering, sciences, social sciences, humanities, medicine, and sustainability studies. Through international conferences, workshops, training programs, and scholarly publications, the society fosters intellectual collaboration and supports the dissemination of impactful research.
 
-SIARE promotes research that integrates multiple disciplines such as engineering, sciences, social sciences, humanities, medicine, and sustainability studies. Through international conferences, workshops, training programs, and scholarly publications, the society fosters intellectual collaboration and supports the dissemination of impactful research.`,
+The society’s conference proceedings are published under the Academic Proceedings Series, which ensures peer-reviewed dissemination of high-quality research contributions.
+SIARE strongly supports research aligned with the global sustainability agenda, encouraging interdisciplinary approaches that combine science, engineering, technology, and social innovation to build resilient societies and sustainable development pathways.
 
-    aboutConference:
-      "This conference brings together experts in data science, machine learning, and computational intelligence to discuss advances in big data analytics, artificial intelligence, and intelligent computing systems.",
+Interdisciplinary research is increasingly recognized as essential for solving complex global problems, because combining expertise from different fields helps generate innovative solutions and broader societal impact.`,
+
+    aboutConference: `The International Conference on Interdisciplinary Research and Sustainable Innovation in Science, Engineering, and Society (ICIRSIES 2026) is a global academic platform dedicated to promoting innovative research that integrates multiple disciplines to address societal challenges.The conference aims to bring together researchers, academicians, industry professionals, policymakers, and students from around the world to share ideas, present research findings, and develop collaborative networks. Modern global challenges such as climate change, technological disruption, and sustainable development require interdisciplinary collaboration among scientists, engineers, social scientists, and policymakers.
+     
+    ICIRSIES 2026 therefore focuses on research that connects:
+• Scientific discovery  
+• Technological innovation  
+• Social transformation  
+• Sustainable development  
+The conference will feature keynote talks from leading scholars, technical sessions, panel discussions, poster presentations, and networking opportunities.`,
 
     objectives: [
-      "Promote research in data science and analytics",
-      "Encourage innovation in computational intelligence",
-      "Discuss real-world applications of big data",
+      "Promote interdisciplinary research collaboration across scientific and social domains",
+      "Encourage innovation addressing global sustainability challenges",
+      "Facilitate knowledge exchange between academia and industry",
+      "Provide early career researchers with opportunities to present their work internationally",
+      "Strengthen global research networks and institutional partnerships",
+      "Publish high-quality peer-reviewed research in conference proceedings",
     ],
 
     tracks: [
@@ -1452,6 +1638,25 @@ SIARE promotes research that integrates multiple disciplines such as engineering
         fee: "$80",
       },
     ],
+
+    registrationBenefits: [
+      "Conference participation",
+      "Presentation opportunity",
+      "Conference certificate",
+      "Access to conference sessions",
+      "Publication in proceedings (for accepted papers)",
+    ],
+
+    publication: {
+      name: "SIARE Conference Proceedings Series",
+      features: [
+        "Peer-reviewed proceedings",
+        "DOI assigned to each paper",
+        "Online open-access publication",
+        "Indexed in scholarly databases (subject to evaluation)",
+      ],
+      note: "Selected high-quality papers may be invited for extended publication in partner journals after significant revision.",
+    },
 
     importantDates: [
       { activity: "Abstract Submission", date: "10 October 2026" },
@@ -1469,16 +1674,29 @@ SIARE promotes research that integrates multiple disciplines such as engineering
       "International Conference on Education Innovation, Learning Technologies, and Academic Transformation",
 
     aboutSiare: `The Society of Academic Integrated Research and Education (SIARE) is an international academic organization dedicated to advancing interdisciplinary research, academic collaboration, and global knowledge exchange. The society provides a platform where scholars, researchers, policymakers, and industry leaders collaborate to address complex global challenges through innovative research and technological advancement.
+         SIARE promotes research that integrates multiple disciplines such as engineering, sciences, social sciences, humanities, medicine, and sustainability studies. Through international conferences, workshops, training programs, and scholarly publications, the society fosters intellectual collaboration and supports the dissemination of impactful research.
 
-SIARE promotes research that integrates multiple disciplines such as engineering, sciences, social sciences, humanities, medicine, and sustainability studies. Through international conferences, workshops, training programs, and scholarly publications, the society fosters intellectual collaboration and supports the dissemination of impactful research.`,
+The society’s conference proceedings are published under the Academic Proceedings Series, which ensures peer-reviewed dissemination of high-quality research contributions.
+SIARE strongly supports research aligned with the global sustainability agenda, encouraging interdisciplinary approaches that combine science, engineering, technology, and social innovation to build resilient societies and sustainable development pathways.
 
-    aboutConference:
-      "This conference focuses on innovation in higher education, digital learning systems, and emerging educational technologies.",
+Interdisciplinary research is increasingly recognized as essential for solving complex global problems, because combining expertise from different fields helps generate innovative solutions and broader societal impact.`,
+
+    aboutConference: `The International Conference on Interdisciplinary Research and Sustainable Innovation in Science, Engineering, and Society (ICIRSIES 2026) is a global academic platform dedicated to promoting innovative research that integrates multiple disciplines to address societal challenges.The conference aims to bring together researchers, academicians, industry professionals, policymakers, and students from around the world to share ideas, present research findings, and develop collaborative networks. Modern global challenges such as climate change, technological disruption, and sustainable development require interdisciplinary collaboration among scientists, engineers, social scientists, and policymakers.
+     
+    ICIRSIES 2026 therefore focuses on research that connects:
+• Scientific discovery  
+• Technological innovation  
+• Social transformation  
+• Sustainable development  
+The conference will feature keynote talks from leading scholars, technical sessions, panel discussions, poster presentations, and networking opportunities.`,
 
     objectives: [
-      "Promote innovation in teaching and learning",
-      "Explore technology-driven education systems",
-      "Support research in higher education policy",
+      "Promote interdisciplinary research collaboration across scientific and social domains",
+      "Encourage innovation addressing global sustainability challenges",
+      "Facilitate knowledge exchange between academia and industry",
+      "Provide early career researchers with opportunities to present their work internationally",
+      "Strengthen global research networks and institutional partnerships",
+      "Publish high-quality peer-reviewed research in conference proceedings",
     ],
 
     tracks: [
@@ -1611,6 +1829,7 @@ SIARE promotes research that integrates multiple disciplines such as engineering
         ],
       },
     ],
+
     submissionGuidelines: {
       description: [
         "Original and unpublished work",
@@ -1624,6 +1843,9 @@ SIARE promotes research that integrates multiple disciplines such as engineering
       spacing: "1.5",
       citation: "APA / IEEE",
     },
+
+    plagiarismPolicy:
+      "All submissions are checked using plagiarism detection software. Papers exceeding acceptable similarity limits may be rejected or returned for revision.",
 
     registration: [
       {
@@ -1646,6 +1868,25 @@ SIARE promotes research that integrates multiple disciplines such as engineering
         fee: "$80",
       },
     ],
+
+    registrationBenefits: [
+      "Conference participation",
+      "Presentation opportunity",
+      "Conference certificate",
+      "Access to conference sessions",
+      "Publication in proceedings (for accepted papers)",
+    ],
+
+    publication: {
+      name: "SIARE Conference Proceedings Series",
+      features: [
+        "Peer-reviewed proceedings",
+        "DOI assigned to each paper",
+        "Online open-access publication",
+        "Indexed in scholarly databases (subject to evaluation)",
+      ],
+      note: "Selected high-quality papers may be invited for extended publication in partner journals after significant revision.",
+    },
 
     importantDates: [
       { activity: "Abstract Submission", date: "15 November 2026" },
@@ -1663,16 +1904,29 @@ SIARE promotes research that integrates multiple disciplines such as engineering
       "World Conference on Business, Entrepreneurship, and Sustainable Economic Development",
 
     aboutSiare: `The Society of Academic Integrated Research and Education (SIARE) is an international academic organization dedicated to advancing interdisciplinary research, academic collaboration, and global knowledge exchange. The society provides a platform where scholars, researchers, policymakers, and industry leaders collaborate to address complex global challenges through innovative research and technological advancement.
+         SIARE promotes research that integrates multiple disciplines such as engineering, sciences, social sciences, humanities, medicine, and sustainability studies. Through international conferences, workshops, training programs, and scholarly publications, the society fosters intellectual collaboration and supports the dissemination of impactful research.
 
-SIARE promotes research that integrates multiple disciplines such as engineering, sciences, social sciences, humanities, medicine, and sustainability studies. Through international conferences, workshops, training programs, and scholarly publications, the society fosters intellectual collaboration and supports the dissemination of impactful research.`,
+The society’s conference proceedings are published under the Academic Proceedings Series, which ensures peer-reviewed dissemination of high-quality research contributions.
+SIARE strongly supports research aligned with the global sustainability agenda, encouraging interdisciplinary approaches that combine science, engineering, technology, and social innovation to build resilient societies and sustainable development pathways.
 
-    aboutConference:
-      "This conference examines global business innovation, entrepreneurship ecosystems, and sustainable economic development.",
+Interdisciplinary research is increasingly recognized as essential for solving complex global problems, because combining expertise from different fields helps generate innovative solutions and broader societal impact.`,
+
+    aboutConference: `The International Conference on Interdisciplinary Research and Sustainable Innovation in Science, Engineering, and Society (ICIRSIES 2026) is a global academic platform dedicated to promoting innovative research that integrates multiple disciplines to address societal challenges.The conference aims to bring together researchers, academicians, industry professionals, policymakers, and students from around the world to share ideas, present research findings, and develop collaborative networks. Modern global challenges such as climate change, technological disruption, and sustainable development require interdisciplinary collaboration among scientists, engineers, social scientists, and policymakers.
+     
+    ICIRSIES 2026 therefore focuses on research that connects:
+• Scientific discovery  
+• Technological innovation  
+• Social transformation  
+• Sustainable development  
+The conference will feature keynote talks from leading scholars, technical sessions, panel discussions, poster presentations, and networking opportunities.`,
 
     objectives: [
-      "Promote entrepreneurship research",
-      "Encourage sustainable business innovation",
-      "Discuss global economic development strategies",
+      "Promote interdisciplinary research collaboration across scientific and social domains",
+      "Encourage innovation addressing global sustainability challenges",
+      "Facilitate knowledge exchange between academia and industry",
+      "Provide early career researchers with opportunities to present their work internationally",
+      "Strengthen global research networks and institutional partnerships",
+      "Publish high-quality peer-reviewed research in conference proceedings",
     ],
 
     tracks: [
@@ -1820,6 +2074,9 @@ SIARE promotes research that integrates multiple disciplines such as engineering
       citation: "APA / IEEE",
     },
 
+    plagiarismPolicy:
+      "All submissions are checked using plagiarism detection software. Papers exceeding acceptable similarity limits may be rejected or returned for revision.",
+
     registration: [
       {
         category: "Student Author",
@@ -1841,6 +2098,25 @@ SIARE promotes research that integrates multiple disciplines such as engineering
         fee: "$80",
       },
     ],
+
+    registrationBenefits: [
+      "Conference participation",
+      "Presentation opportunity",
+      "Conference certificate",
+      "Access to conference sessions",
+      "Publication in proceedings (for accepted papers)",
+    ],
+
+    publication: {
+      name: "SIARE Conference Proceedings Series",
+      features: [
+        "Peer-reviewed proceedings",
+        "DOI assigned to each paper",
+        "Online open-access publication",
+        "Indexed in scholarly databases (subject to evaluation)",
+      ],
+      note: "Selected high-quality papers may be invited for extended publication in partner journals after significant revision.",
+    },
 
     importantDates: [
       { activity: "Abstract Submission", date: "10 December 2026" },
@@ -1858,16 +2134,29 @@ SIARE promotes research that integrates multiple disciplines such as engineering
       "International Conference on Climate Change, Biodiversity, and Global Sustainability Research",
 
     aboutSiare: `The Society of Academic Integrated Research and Education (SIARE) is an international academic organization dedicated to advancing interdisciplinary research, academic collaboration, and global knowledge exchange. The society provides a platform where scholars, researchers, policymakers, and industry leaders collaborate to address complex global challenges through innovative research and technological advancement.
+         SIARE promotes research that integrates multiple disciplines such as engineering, sciences, social sciences, humanities, medicine, and sustainability studies. Through international conferences, workshops, training programs, and scholarly publications, the society fosters intellectual collaboration and supports the dissemination of impactful research.
 
-SIARE promotes research that integrates multiple disciplines such as engineering, sciences, social sciences, humanities, medicine, and sustainability studies. Through international conferences, workshops, training programs, and scholarly publications, the society fosters intellectual collaboration and supports the dissemination of impactful research.`,
+The society’s conference proceedings are published under the Academic Proceedings Series, which ensures peer-reviewed dissemination of high-quality research contributions.
+SIARE strongly supports research aligned with the global sustainability agenda, encouraging interdisciplinary approaches that combine science, engineering, technology, and social innovation to build resilient societies and sustainable development pathways.
 
-    aboutConference:
-      "This conference focuses on climate change mitigation, biodiversity conservation, and sustainable environmental development.",
+Interdisciplinary research is increasingly recognized as essential for solving complex global problems, because combining expertise from different fields helps generate innovative solutions and broader societal impact.`,
+
+    aboutConference: `The International Conference on Interdisciplinary Research and Sustainable Innovation in Science, Engineering, and Society (ICIRSIES 2026) is a global academic platform dedicated to promoting innovative research that integrates multiple disciplines to address societal challenges.The conference aims to bring together researchers, academicians, industry professionals, policymakers, and students from around the world to share ideas, present research findings, and develop collaborative networks. Modern global challenges such as climate change, technological disruption, and sustainable development require interdisciplinary collaboration among scientists, engineers, social scientists, and policymakers.
+     
+    ICIRSIES 2026 therefore focuses on research that connects:
+• Scientific discovery  
+• Technological innovation  
+• Social transformation  
+• Sustainable development  
+The conference will feature keynote talks from leading scholars, technical sessions, panel discussions, poster presentations, and networking opportunities.`,
 
     objectives: [
-      "Promote environmental sustainability research",
-      "Encourage climate change innovation",
-      "Support biodiversity conservation strategies",
+      "Promote interdisciplinary research collaboration across scientific and social domains",
+      "Encourage innovation addressing global sustainability challenges",
+      "Facilitate knowledge exchange between academia and industry",
+      "Provide early career researchers with opportunities to present their work internationally",
+      "Strengthen global research networks and institutional partnerships",
+      "Publish high-quality peer-reviewed research in conference proceedings",
     ],
 
     tracks: [
@@ -2000,6 +2289,7 @@ SIARE promotes research that integrates multiple disciplines such as engineering
         ],
       },
     ],
+
     submissionGuidelines: {
       description: [
         "Original and unpublished work",
@@ -2013,6 +2303,9 @@ SIARE promotes research that integrates multiple disciplines such as engineering
       spacing: "1.5",
       citation: "APA / IEEE",
     },
+
+    plagiarismPolicy:
+      "All submissions are checked using plagiarism detection software. Papers exceeding acceptable similarity limits may be rejected or returned for revision.",
 
     registration: [
       {
@@ -2035,6 +2328,25 @@ SIARE promotes research that integrates multiple disciplines such as engineering
         fee: "$80",
       },
     ],
+
+    registrationBenefits: [
+      "Conference participation",
+      "Presentation opportunity",
+      "Conference certificate",
+      "Access to conference sessions",
+      "Publication in proceedings (for accepted papers)",
+    ],
+
+    publication: {
+      name: "SIARE Conference Proceedings Series",
+      features: [
+        "Peer-reviewed proceedings",
+        "DOI assigned to each paper",
+        "Online open-access publication",
+        "Indexed in scholarly databases (subject to evaluation)",
+      ],
+      note: "Selected high-quality papers may be invited for extended publication in partner journals after significant revision.",
+    },
 
     importantDates: [
       { activity: "Abstract Submission", date: "10 January 2027" },
