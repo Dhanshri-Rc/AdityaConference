@@ -164,19 +164,19 @@ The conference will feature keynote talks from leading scholars, technical sessi
       },
     ],
 
-  submissionGuidelines: {
-  description: [
-    "Original and unpublished work",
-    "Not under review elsewhere",
-    "Written in clear academic English"
-  ],
-  pages: "6–10 pages",
-  format: "Microsoft Word or LaTeX",
-  font: "Times New Roman",
-  fontSize: "12",
-  spacing: "1.5",
-  citation: "APA / IEEE"
-},
+    submissionGuidelines: {
+      description: [
+        "Original and unpublished work",
+        "Not under review elsewhere",
+        "Written in clear academic English",
+      ],
+      pages: "6–10 pages",
+      format: "Microsoft Word or LaTeX",
+      font: "Times New Roman",
+      fontSize: "12",
+      spacing: "1.5",
+      citation: "APA / IEEE",
+    },
 
     plagiarismPolicy:
       "All submissions are checked using plagiarism detection software. Papers exceeding acceptable similarity limits may be rejected or returned for revision.",
@@ -402,19 +402,19 @@ SIARE promotes research that integrates multiple disciplines such as engineering
       },
     ],
 
-     submissionGuidelines: {
-  description: [
-    "Original and unpublished work",
-    "Not under review elsewhere",
-    "Written in clear academic English"
-  ],
-  pages: "6–10 pages",
-  format: "Microsoft Word or LaTeX",
-  font: "Times New Roman",
-  fontSize: "12",
-  spacing: "1.5",
-  citation: "APA / IEEE"
-},
+    submissionGuidelines: {
+      description: [
+        "Original and unpublished work",
+        "Not under review elsewhere",
+        "Written in clear academic English",
+      ],
+      pages: "6–10 pages",
+      format: "Microsoft Word or LaTeX",
+      font: "Times New Roman",
+      fontSize: "12",
+      spacing: "1.5",
+      citation: "APA / IEEE",
+    },
 
     registration: [
       {
@@ -618,19 +618,19 @@ SIARE promotes research that integrates multiple disciplines such as engineering
       },
     ],
 
-   submissionGuidelines: {
-  description: [
-    "Original and unpublished work",
-    "Not under review elsewhere",
-    "Written in clear academic English"
-  ],
-  pages: "6–10 pages",
-  format: "Microsoft Word or LaTeX",
-  font: "Times New Roman",
-  fontSize: "12",
-  spacing: "1.5",
-  citation: "APA / IEEE"
-},
+    submissionGuidelines: {
+      description: [
+        "Original and unpublished work",
+        "Not under review elsewhere",
+        "Written in clear academic English",
+      ],
+      pages: "6–10 pages",
+      format: "Microsoft Word or LaTeX",
+      font: "Times New Roman",
+      fontSize: "12",
+      spacing: "1.5",
+      citation: "APA / IEEE",
+    },
 
     registration: [
       {
@@ -834,18 +834,18 @@ SIARE promotes research that integrates multiple disciplines such as engineering
     ],
 
     submissionGuidelines: {
-  description: [
-    "Original and unpublished work",
-    "Not under review elsewhere",
-    "Written in clear academic English"
-  ],
-  pages: "6–10 pages",
-  format: "Microsoft Word or LaTeX",
-  font: "Times New Roman",
-  fontSize: "12",
-  spacing: "1.5",
-  citation: "APA / IEEE"
-},
+      description: [
+        "Original and unpublished work",
+        "Not under review elsewhere",
+        "Written in clear academic English",
+      ],
+      pages: "6–10 pages",
+      format: "Microsoft Word or LaTeX",
+      font: "Times New Roman",
+      fontSize: "12",
+      spacing: "1.5",
+      citation: "APA / IEEE",
+    },
 
     registration: [
       {
@@ -1029,18 +1029,18 @@ SIARE promotes research that integrates multiple disciplines such as engineering
     ],
 
     submissionGuidelines: {
-  description: [
-    "Original and unpublished work",
-    "Not under review elsewhere",
-    "Written in clear academic English"
-  ],
-  pages: "6–10 pages",
-  format: "Microsoft Word or LaTeX",
-  font: "Times New Roman",
-  fontSize: "12",
-  spacing: "1.5",
-  citation: "APA / IEEE"
-},
+      description: [
+        "Original and unpublished work",
+        "Not under review elsewhere",
+        "Written in clear academic English",
+      ],
+      pages: "6–10 pages",
+      format: "Microsoft Word or LaTeX",
+      font: "Times New Roman",
+      fontSize: "12",
+      spacing: "1.5",
+      citation: "APA / IEEE",
+    },
 
     registration: [
       {
@@ -1224,18 +1224,18 @@ SIARE promotes research that integrates multiple disciplines such as engineering
     ],
 
     submissionGuidelines: {
-  description: [
-    "Original and unpublished work",
-    "Not under review elsewhere",
-    "Written in clear academic English"
-  ],
-  pages: "6–10 pages",
-  format: "Microsoft Word or LaTeX",
-  font: "Times New Roman",
-  fontSize: "12",
-  spacing: "1.5",
-  citation: "APA / IEEE"
-},
+      description: [
+        "Original and unpublished work",
+        "Not under review elsewhere",
+        "Written in clear academic English",
+      ],
+      pages: "6–10 pages",
+      format: "Microsoft Word or LaTeX",
+      font: "Times New Roman",
+      fontSize: "12",
+      spacing: "1.5",
+      citation: "APA / IEEE",
+    },
 
     registration: [
       {
@@ -1417,19 +1417,19 @@ SIARE promotes research that integrates multiple disciplines such as engineering
         ],
       },
     ],
-   submissionGuidelines: {
-  description: [
-    "Original and unpublished work",
-    "Not under review elsewhere",
-    "Written in clear academic English"
-  ],
-  pages: "6–10 pages",
-  format: "Microsoft Word or LaTeX",
-  font: "Times New Roman",
-  fontSize: "12",
-  spacing: "1.5",
-  citation: "APA / IEEE"
-},
+    submissionGuidelines: {
+      description: [
+        "Original and unpublished work",
+        "Not under review elsewhere",
+        "Written in clear academic English",
+      ],
+      pages: "6–10 pages",
+      format: "Microsoft Word or LaTeX",
+      font: "Times New Roman",
+      fontSize: "12",
+      spacing: "1.5",
+      citation: "APA / IEEE",
+    },
 
     registration: [
       {
@@ -1612,18 +1612,18 @@ SIARE promotes research that integrates multiple disciplines such as engineering
       },
     ],
     submissionGuidelines: {
-  description: [
-    "Original and unpublished work",
-    "Not under review elsewhere",
-    "Written in clear academic English"
-  ],
-  pages: "6–10 pages",
-  format: "Microsoft Word or LaTeX",
-  font: "Times New Roman",
-  fontSize: "12",
-  spacing: "1.5",
-  citation: "APA / IEEE"
-},
+      description: [
+        "Original and unpublished work",
+        "Not under review elsewhere",
+        "Written in clear academic English",
+      ],
+      pages: "6–10 pages",
+      format: "Microsoft Word or LaTeX",
+      font: "Times New Roman",
+      fontSize: "12",
+      spacing: "1.5",
+      citation: "APA / IEEE",
+    },
 
     registration: [
       {
@@ -1807,18 +1807,18 @@ SIARE promotes research that integrates multiple disciplines such as engineering
     ],
 
     submissionGuidelines: {
-  description: [
-    "Original and unpublished work",
-    "Not under review elsewhere",
-    "Written in clear academic English"
-  ],
-  pages: "6–10 pages",
-  format: "Microsoft Word or LaTeX",
-  font: "Times New Roman",
-  fontSize: "12",
-  spacing: "1.5",
-  citation: "APA / IEEE"
-},
+      description: [
+        "Original and unpublished work",
+        "Not under review elsewhere",
+        "Written in clear academic English",
+      ],
+      pages: "6–10 pages",
+      format: "Microsoft Word or LaTeX",
+      font: "Times New Roman",
+      fontSize: "12",
+      spacing: "1.5",
+      citation: "APA / IEEE",
+    },
 
     registration: [
       {
@@ -2001,18 +2001,18 @@ SIARE promotes research that integrates multiple disciplines such as engineering
       },
     ],
     submissionGuidelines: {
-  description: [
-    "Original and unpublished work",
-    "Not under review elsewhere",
-    "Written in clear academic English"
-  ],
-  pages: "6–10 pages",
-  format: "Microsoft Word or LaTeX",
-  font: "Times New Roman",
-  fontSize: "12",
-  spacing: "1.5",
-  citation: "APA / IEEE"
-},
+      description: [
+        "Original and unpublished work",
+        "Not under review elsewhere",
+        "Written in clear academic English",
+      ],
+      pages: "6–10 pages",
+      format: "Microsoft Word or LaTeX",
+      font: "Times New Roman",
+      fontSize: "12",
+      spacing: "1.5",
+      citation: "APA / IEEE",
+    },
 
     registration: [
       {
