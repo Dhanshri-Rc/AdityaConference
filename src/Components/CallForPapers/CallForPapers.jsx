@@ -74,7 +74,7 @@ export default function CallForPapers() {
       <div className="max-w-5xl mx-auto px-6">
         {/* Heading */}
         <div className="text-center mb-14">
-          <h2 className="text-3xl font-semibold text-orange-500">
+          <h2 className="text-2xl md:text-4xl font-semibold text-orange-500">
             Call For Papers
           </h2>
           <p className="mt-4 text-gray-600 max-w-3xl mx-auto">

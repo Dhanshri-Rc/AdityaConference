@@ -14,7 +14,7 @@ export default function AboutEEE() {
 
         {/* Content */}
         <div className="text-justify md:pr-10">
-          <h2 className="text-center md:text-justify text-2xl md:text-3xl font-bold text-orange-500 mb-5 md:mb-6">
+          <h2 className="text-center md:text-justify text-2xl md:text-4xl font-semibold text-orange-500 mb-5 md:mb-6">
             About EEE Department
           </h2>
 

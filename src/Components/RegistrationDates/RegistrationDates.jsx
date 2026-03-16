@@ -31,15 +31,15 @@ export default function RegistrationDates() {
     <section className="bg-gray-100 py-20">
       <div className="max-w-6xl mx-auto px-6">
         {/* Title */}
-        <h2 className="text-3xl font-semibold text-orange-500 mb-10">
+        <h2 className="text-3xl sm:text-4xl font-semibold text-orange-500 mb-10 text-center">
           Registration Dates
         </h2>
 
         {/* Table Card */}
         <div className="bg-white rounded-lg shadow-sm overflow-hidden border border-gray-200">
-          <table className="w-full text-left">
+          <table className="w-full text-left border-collapse">
             {/* Table Header */}
-            <thead className="bg-gray-50 text-gray-700">
+            <thead className="bg-orange-50 text-gray-800">
               <tr>
                 <th className="px-8 py-4 font-semibold">S.No</th>
                 <th className="px-8 py-4 font-semibold">Category</th>
@@ -52,7 +52,7 @@ export default function RegistrationDates() {
               {fees.map((item) => (
                 <tr
                   key={item.id}
-                  className="border-t border-gray-200 hover:bg-gray-50 transition"
+                  className="border-t border-gray-200 hover:bg-orange-50 transition"
                 >
                   <td className="px-8 py-5">{item.id}</td>
                   <td className="px-8 py-5">{item.category}</td>

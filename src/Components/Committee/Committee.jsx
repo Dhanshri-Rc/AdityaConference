@@ -5,7 +5,7 @@ export default function Committee() {
     <section id="committee" className="bg-white py-20">
       <div className="max-w-6xl mx-auto px-6">
         {/* Chief Patrons */}
-        <h2 className="text-3xl font-semibold text-orange-500 mb-10">
+        <h2 className="text-3xl sm:text-4xl font-semibold text-orange-500 mb-10">
           Chief Patron(s)
         </h2>
 

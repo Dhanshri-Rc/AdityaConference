@@ -85,7 +85,7 @@ return (
 
 <div className="text-center mb-14">
 
-<h2 className="text-3xl font-semibold text-orange-500">
+<h2 className="text-3xl sm:text-4xl font-semibold text-orange-500">
 SIARE Conference Series
 </h2>
 

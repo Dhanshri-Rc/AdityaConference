@@ -1,4 +1,4 @@
-import universityImg from "../../assets/aboutaditya.png";
+import universityImg from "../../assets/saireSociety.jpg";
 
 export default function AboutUniversity() {
   return (
@@ -7,7 +7,7 @@ export default function AboutUniversity() {
         
         {/* Left Content */}
         <div className="text-justify">
-          <h2 className="text-center md:text-left text-2xl md:text-3xl font-bold text-orange-500 mb-6">
+          <h2 className="text-center md:text-left text-2xl md:text-4xl font-semibold text-orange-500 mb-6">
             About The University
           </h2>
 
