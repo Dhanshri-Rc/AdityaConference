@@ -2,8 +2,8 @@ import { useParams } from "react-router-dom";
 import { conferences } from "../data/Conferences";
 import { Monitor } from "lucide-react";
 import bg from "../assets/bg.jpg";
-import conferenceImg from "../assets/Conference.png";
-import siare from "../assets/siare.png";
+import conferenceImg from "../assets/confe.jpg";
+import siare from "../assets/saireSociety.jpg";
 
 export default function ConferencePage() {
   const { slug } = useParams();
@@ -52,7 +52,7 @@ export default function ConferencePage() {
               <img
                 src={siare}
                 alt="SIARE Conference"
-                className="w-full max-w-xl rounded-lg object-cover"
+                className="w-full max-w-md rounded-lg object-cover"
               />
             </div>
 
@@ -76,7 +76,7 @@ export default function ConferencePage() {
             <img
               src={conferenceImg}
               alt="Conference"
-              className="w-full max-w-[410px] rounded-lg object-cover"
+              className="w-full max-w-[430px] rounded-lg object-cover"
             />
           </div>
 
